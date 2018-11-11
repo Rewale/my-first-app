@@ -25,7 +25,7 @@ SECRET_KEY = 'g_*b4*k2s8!qp75no*1%v+%yt+&$9yzh#(tj=ac(t(270^j=_v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '23.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Rewale.pythonanywhere.com',"conwale.pythonanywhere.com"]
 
 
 # Application definition
